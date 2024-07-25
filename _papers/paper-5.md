@@ -1,7 +1,7 @@
 ---
-title: "A computational model of general suicide ideation"
+title: 'A computational model of general suicide ideation'
 collection: papers
-permalink: /papers/paper-number-5
+permalink: /papers/paper-5
 excerpt: 'Suicidal ideation represents one of the most complex mental phenomena and poorly understood. This paper explores the psychic mechanisms of suicide ideation through a novel approach that combines computational methods with Lacanian psychoanalysis, specifically utilizing free energy principle (FEP). We begin by outlining foundational concepts of FEP and computational Lacanian psychoanalysis. Subsequently, we review contemporary theories of suicide thought including Interpersonal theory, Escape theory, and Lacanian and other psychoanalytic perspectives. We identify four components of suicidal ideation: symbolic suicide, imaginary suicide, desire for death, and passage of the act. A recurrent generative model is proposed that simulates suicidal impulses based on internal states and external events. We discuss enhancing the practical applicability and validating this theoretical model using real-world data like Social Readjustment Rating Scale and Personality Inventory for DSM-5 (PID-5). The predictive capability of our model is evaluating using an open-source dataset of PID-5 and Columbia Suicide Severity Rating Scale, achieving an AUC of 0.76, despite the absence of life event data. The model demonstrates the potential of generative psychometrics as a paradigm for integrating psychometric measurement with generative modeling of psychological phenomena. Further work should validate the model by incorporating external factors to refine its explanatory and predictive power. With continued development, this generative psychometric approach could provide new tools for better assessing, understanding, and treating suicidal ideation.'
 date: 2024-05-10
 #venue: 'Journal 1'

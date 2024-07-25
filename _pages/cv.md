@@ -58,7 +58,7 @@ Skills
 * Python coding
   * computational modeling
   * data analysis
-  * 
+  * visualization
 * Philosophical thinking
   * Lacan and post-structuralism
   * René Girard
@@ -70,4 +70,3 @@ Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
