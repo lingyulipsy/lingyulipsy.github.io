@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Lingyu Li | 李凌宇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Toward digital twin mind with AI, cognitive science, and philosophy"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -235,18 +235,18 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
+  #- scope:
+    #  path: ""
+    #  type: teaching
+    #values:
+    #  layout: single
+    #  author_profile: true
+    #  share: true
+    #  comments: true
+  # _papers
   - scope:
       path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
@@ -262,13 +262,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+    #  path: ""
+    #  type: talks
+    #values:
+    #  layout: talk
+    #  author_profile: true
+    #  share: true
 
 
 # Sass/SCSS
