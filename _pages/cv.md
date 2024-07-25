@@ -11,35 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Psychiatry, Shanghai Jiao Tong University, 2022-2025
+  * GPA: 3.75/4.0
+* B.S. in Clinical Medicine, Shanghai Jiao Tong University, 2017-2022
+  * GPA: 3.2/4.0
 
-Work experience
+Scientific research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-now: Textbook writing
+  * Computational Cognitive Psychology for Chinese Students
+  * Duties included: Reinforcement learning in psychology and machine learning
+  * Supervisor: Ruyuan Zhang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2024-now: Research Internship
+  * Shanghai Artificial Intelligence Laboratory
+  * Duties included: AI regulations
+  * Supervisor: Yan Teng
+
+* 2024-now: Graduate research project (Prediction and prevention of suicide ideation utilizing computational models based on deep learning and free energy principle)
+  * Shanghai Mental Health Center
+  * Duties includes: idea formation, experimental design, data collection, computational modeling, and data analysis;
+  * Supervisor: Chunbo Li
+
+* 2023-now: Experimenter (Multi-modal dataset for common mental disorders)
+  * Shanghai Mental Health Center
+  * Duties includes: Collecting EEG, fMRI, voice & expressions, gaits, controling data quality;
+  * Supervisor: Chunbo Li
+
+* 2021-2022: Intern doctor
+  * Shanghai Sixth People's hospital
+  * Duties includes: Reviewing efficacy and safety of tyrosine kinase inhibitors against thyroid cancers;
+  * Supervisor: Libo Chen
+
+* 2019-2021: College students innovations project
+  * Shanghai Jiao Tong University, School of Public Health
+  * Duties includes: biological experiments (Western-blot, DNA extraction);
+  * Supervisor: Hui Wang
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Clinical research skills
+  * EEG
+  * fMRI
+  * scales
+* Python coding
+  * computational modeling
+  * data analysis
+  * 
+* Philosophical thinking
+  * Lacan and post-structuralism
+  * René Girard
+  * Bruno Latour
 
 Papers
 ======
@@ -47,18 +70,4 @@ Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

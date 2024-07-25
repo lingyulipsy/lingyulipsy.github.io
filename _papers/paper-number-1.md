@@ -2,7 +2,7 @@
 title: "Real-world insights into the efficacy and safety of tyrosine kinase inhibitors against thyroid cancers"
 collection: papers
 permalink: /papers/paper-number-1
-excerpt: 'This paper is finished during my undergraduate.'
+excerpt: 'Based on clinical trials demonstrating favorable short-term efficacy and tolerable toxicity, several tyrosine kinase inhibitors have been approved for treating locally recurrent or metastatic, progressive radioiodine-refractory differentiated thyroid cancer, BRAFV600E-mutant anaplastic thyroid cancer, and advanced or progressive medullary thyroid cancer. Longer term efficacy and safety of these treatments have been investigated in multiple real-world studies, demonstrating indispensable complementary value. Hereby, we summarize data from a total of 27 real-world studies with a focus on long-term survival data and rare but life-threatening adverse effects. An overall picture of current real-world study was drawn, and integrated experience of multiple centers would be helpful to clinical practice and further research.'
 date: 2022-04-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
