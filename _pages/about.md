@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently majoring in psychiatry at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], and doing an internship at [Shanghai Artificial Intelligence Laboratory][shailab]. 
+I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at the doing an internship at [Shanghai Artificial Intelligence Laboratory][shailab]. 
 
-My research interests lie in computational modeling, active inference, philosophy, and large languge models. 
+I am interested in computational modeling, active inference, philosophy, and large language models.
 
-In Shanghai Mental Health Center, I aim to model Lacanian philosophy of human subjectivity using [active inference][fep], and utilize this framework to study psychopathology of mental disorders like suicidal ideation. The final goal of this project is to explore digital twin mind at the macro level.
+At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using [active inference][fep]. I apply this framework to study the psychopathology of mental disorders like suicidal ideation. The ultimate goal of this project is to explore the concept of a digital twin mind at the macro level.
 
-In Shanghai AI Lab, I am investigating theory and techniques of large language models' safety. I reflect the origins and definition of LLMs risks based on philosophy of science, sociology, and psychology. At the same time, my collegues and I work to advance LLMs safety including benchmarks and model architecture.
+At Shanghai AI Lab, I am investigating the theory and techniques related to large language model safety. My work involves reflecting on the origins and definition of LLM risks through the lenses of philosophy of science, sociology, and psychology. Concurrently, my colleagues and I are working to advance LLM safety, including developing benchmarks and improving model architectures.
 
+For more information, please see my [CV](http://www.lingyuli.site/cv/) and [papers](http://www.lingyuli.site/papers/).
 
 [sjtu]: https://en.sjtu.edu.cn/
 [smhc]: https://www.smhc.org.cn/English/
