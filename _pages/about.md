@@ -9,11 +9,11 @@ redirect_from:
 
 I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at the doing an internship at [Shanghai Artificial Intelligence Laboratory][shailab]. 
 
-I am interested in computational modeling, active inference, philosophy, and large language models.
+I am interested in computational modeling, active inference, large language models, and philosophy.
 
 At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using [active inference][fep]. I apply this framework to study the psychopathology of mental disorders like suicidal ideation. The ultimate goal of this project is to explore the concept of a digital twin mind at the macro level.
 
-At Shanghai AI Lab, I am investigating the theory and techniques related to large language model safety. My work involves reflecting on the origins and definition of LLM risks through the lenses of philosophy of science, sociology, and psychology. Concurrently, my colleagues and I are working to advance LLM safety, including developing benchmarks and improving model architectures.
+At Shanghai AI Lab, I am investigating the theory and techniques related to large language model safety. My work involves reflecting on the origins and definition of LLM risks through the lenses of philosophy, sociology, and psychology. Concurrently, my colleagues and I are working to advance LLM safety, including developing benchmarks and improving model architectures.
 
 For more information, please see my [CV](http://www.lingyuli.site/cv/) and [papers](http://www.lingyuli.site/papers/).
 
