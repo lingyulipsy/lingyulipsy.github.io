@@ -10,3 +10,5 @@ paperurl: 'https://arxiv.org/abs/2309.06772'
 ---
 
 We summarize predictive coding models of embodiment, co-occurrence of over- and under-weighting priors, subjective time processing, language production or comprehension, self-or-other inference, and social interaction. Corresponding impairments and clinical manifestations of schizophrenia are reviewed under these models at the same time. Finally, we discuss why and how to inaugurate a therapy turn of further research under the framework of predictive coding.
+
+[Paper link](https://arxiv.org/abs/2309.06772)
