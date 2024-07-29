@@ -36,7 +36,7 @@ Scientific research experience
 
 * 2023-now: Experimenter (Multi-modal dataset for common mental disorders)
   * Shanghai Mental Health Center
-  * Duties includes: Collecting EEG, fMRI, voice & expressions, gaits, controling data quality;
+  * Duties includes: Collecting EEG & eye-tracking, fMRI, voice & expressions, gaits, controling data quality;
   * Supervisor: Chunbo Li
 
 * 2021-2022: Intern doctor
@@ -46,7 +46,7 @@ Scientific research experience
 
 * 2019-2021: College students innovations project
   * Shanghai Jiao Tong University, School of Public Health
-  * Duties includes: biological experiments (Western-blot, DNA extraction);
+  * Duties includes: biological experiments (Western-blot, DNA extraction); meta-analysis;
   * Supervisor: Hui Wang
 
 Skills
@@ -54,6 +54,7 @@ Skills
 * Clinical research skills
   * EEG
   * fMRI
+  * eye-tracking
   * scales
 * Python coding
   * computational modeling
