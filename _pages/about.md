@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at the doing an internship at [Shanghai Artificial Intelligence Laboratory][shailab]. 
+I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab]. 
 
 I am interested in computational modeling, active inference, large language models, and philosophy.
 
