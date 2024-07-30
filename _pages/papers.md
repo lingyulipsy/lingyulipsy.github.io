@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Papers"
+# title: "Papers"
 permalink: /papers/
 author_profile: true
 ---
