@@ -12,9 +12,8 @@ redirect_from:
 Education
 ======
 * M.S. in Psychiatry, Shanghai Jiao Tong University, 2022-2025
-  * GPA: 3.75/4.0
+
 * B.S. in Clinical Medicine, Shanghai Jiao Tong University, 2017-2022
-  * GPA: 3.2/4.0
 
 Scientific research experience
 ======
