@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Overview
 ======
 I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab].
 
@@ -18,7 +17,7 @@ My passion lies in exploring every facet of the human mind through computational
 * How can we develop a digital twin mind capable of self-identification?
 
 
-My current projects
+### My current projects
 ======
 At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using active inference. I apply this framework to study the psychopathology of mental disorders like suicidal ideation.
 
