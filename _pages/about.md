@@ -1,13 +1,12 @@
 ---
 permalink: /
-# title: "Academic Website of Lingyu Li"
+title: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-======
 I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab].
 
 My passion lies in exploring every facet of the human mind through computational modeling, [active inference][fep], artificial intelligence, and philosophy. I'm particularly intrigued by the following questions:
@@ -17,7 +16,7 @@ My passion lies in exploring every facet of the human mind through computational
 * How can we develop a digital twin mind capable of self-identification?
 
 
-### My current projects
+## My current projects
 ======
 At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using active inference. I apply this framework to study the psychopathology of mental disorders like suicidal ideation.
 
