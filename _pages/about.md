@@ -7,13 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab]. 
+Overview
+======
+I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab].
 
-I am interested in computational modeling, active inference, large language models, and philosophy.
+My passion lies in exploring every facet of the human mind through computational modeling, [active inference][fep], artificial intelligence, and philosophy. I'm particularly intrigued by the following questions:
 
-At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using [active inference][fep]. I apply this framework to study the psychopathology of mental disorders like suicidal ideation. The ultimate goal of this project is to explore the concept of a digital twin mind at the macro level.
+* How do we utilize internal models to comprehend and engage with the external world?
+* How do we derive our unique identities from bodily experiences and social contexts?
+* How can we develop a digital twin mind capable of self-identification?
 
-At Shanghai AI Lab, I am investigating the theory and techniques related to large language model safety. My work involves reflecting on the origins and definition of LLM risks through the lenses of philosophy, sociology, and psychology. Concurrently, my colleagues and I are working to advance LLM safety, including developing benchmarks and improving model architectures.
+
+My current projects
+======
+At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using active inference. I apply this framework to study the psychopathology of mental disorders like suicidal ideation.
+
+At Shanghai AI Lab, I am investigating the theory and techniques related to large language model safety. My work involves reflecting on the origins and definition of LLM risks. Concurrently, my colleagues and I are working to advance LLM safety, including developing benchmarks and improving model architectures.
+
+
 
 For more information, please see my [CV](http://www.lingyuli.site/cv/) and [papers](http://www.lingyuli.site/papers/).
 
