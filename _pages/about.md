@@ -17,7 +17,7 @@ My passion lies in exploring every facet of the human mind through computational
 
 
 ## My current projects
-======
+
 At Shanghai Mental Health Center, I am working on modeling Lacanian philosophy of human subjectivity using active inference. I apply this framework to study the psychopathology of mental disorders like suicidal ideation.
 
 At Shanghai AI Lab, I am investigating the theory and techniques related to large language model safety. My work involves reflecting on the origins and definition of LLM risks. Concurrently, my colleagues and I are working to advance LLM safety, including developing benchmarks and improving model architectures.
