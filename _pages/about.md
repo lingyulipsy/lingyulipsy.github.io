@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title:
+# title: "Academic Website of Lingyu Li"
 author_profile: true
 redirect_from: 
   - /about/
