@@ -25,7 +25,7 @@ Scientific research experience
 
 * 2024-now: Research Internship
   * Shanghai Artificial Intelligence Laboratory
-  * Duties included: AI regulations
+  * Duties included: ethical LLM and reliable AGI
   * Supervisor: Yan Teng
 
 * 2024-now: Graduate research project (Prediction and prevention of suicide ideation utilizing computational models based on deep learning and free energy principle)
@@ -43,7 +43,7 @@ Scientific research experience
   * Duties includes: Reviewing efficacy and safety of tyrosine kinase inhibitors against thyroid cancers;
   * Supervisor: Libo Chen
 
-* 2019-2021: College students innovations project
+* 2019-2021: College students innovations project (association between fatty acid intake and lymphoma)
   * Shanghai Jiao Tong University, School of Public Health
   * Duties includes: biological experiments (Western-blot, DNA extraction); meta-analysis;
   * Supervisor: Hui Wang
