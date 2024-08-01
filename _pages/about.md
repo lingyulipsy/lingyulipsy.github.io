@@ -13,7 +13,7 @@ My passion lies in exploring every facet of the human mind through computational
 
 * How do we utilize internal models to comprehend and engage with the external world?
 * How do we derive our unique identities from bodily experiences and social contexts?
-* How can we develop a digital twin mind capable of self-identification?
+* How can we develop a digital twin mind that spans distinct scales and cognitive elements?
 
 
 ## My current projects
