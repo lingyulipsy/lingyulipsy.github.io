@@ -1,5 +1,5 @@
 ---
-title: 'Chain of Risks Evaluation (CORE): a structured framework for safer large language models in public mental health (submission in progress)'
+title: 'Chain of Risks Evaluation (CORE): a structured framework for safer large language models in public mental health (email for draft)'
 collection: papers
 permalink: /papers/paper-7
 excerpt: 'Large language models (LLMs) have witnessed widespread adoption due to their superb abilities to understand and generate natural language. However, they also raise important public mental health concerns, including inequity, stigma, dependence, medical risks, and security threats. This personal view provides a novel perspective within the actor-network 
