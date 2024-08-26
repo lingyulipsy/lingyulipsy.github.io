@@ -11,41 +11,45 @@ redirect_from:
 
 Education
 ======
-* M.S. in Psychiatry, Shanghai Jiao Tong University, 2022-2025
+* M.MedSc. in Psychiatry, Shanghai Jiao Tong University, 2022-2025
 
-* B.S. in Clinical Medicine, Shanghai Jiao Tong University, 2017-2022
+* Bachelor of Medicine. in Clinical Medicine, Shanghai Jiao Tong University, 2017-2022
 
-Scientific research experience
+Reasearch Interests
 ======
 
-* 2024-now: Textbook writing
+Computational Cognitive Science
+
+Bayesian Models
+
+Digital twin mind through AI, Cognitive Science, and Philosophy
+
+Research experience
+======
+
+* Summer 2024: Textbook writing
   * Computational Cognitive Psychology for Chinese Students
-  * Duties included: Reinforcement learning in psychology and machine learning
+  * Duties included: summarizing professor’s lecture content, compiling it into the textbook, responsible for the chapter on reinforcement learning in psychology and machine learning.
   * Supervisor: Ruyuan Zhang
 
-* 2024-now: Research Internship
+* 2024-now: Research Intern
   * Shanghai Artificial Intelligence Laboratory
-  * Duties included: ethical LLM and reliable AGI
+  * Duties included: advancing the understanding of ethical large language models through the lens of cognitive science, philosophy, and psychology.
   * Supervisor: Yan Teng
 
-* 2024-now: Graduate research project (Prediction and prevention of suicide ideation utilizing computational models based on deep learning and free energy principle)
+* 2024-now: Graduate research Assistant
   * Shanghai Mental Health Center
-  * Duties includes: idea formation, experimental design, data collection, computational modeling, and data analysis;
+  * Duties includes: mainly involved in two projects including (i) computational models of Lacan’s Philosophy of human mind and corresponding models of psychopathology; (ii) multi-modal dataset of EEG, eye-tracking, fMRI, gaits, and voice for common mental disorders such as depression, anxiety, and schizophrenia.
   * Supervisor: Chunbo Li
 
-* 2023-now: Experimenter (Multi-modal dataset for common mental disorders)
-  * Shanghai Mental Health Center
-  * Duties includes: Collecting EEG & eye-tracking, fMRI, voice & expressions, gaits, controling data quality;
-  * Supervisor: Chunbo Li
-
-* 2021-2022: Intern doctor
+* 2020-2021: Research Intern
   * Shanghai Sixth People's hospital
-  * Duties includes: Reviewing efficacy and safety of tyrosine kinase inhibitors against thyroid cancers;
+  * Duties includes: crafting a systematic review on real-world studies of efficacy and safety of tyrosine kinase inhibitors against thyroid cancers.
   * Supervisor: Libo Chen
 
-* 2019-2021: College students innovations project (association between fatty acid intake and lymphoma)
+* 2019-2020: Undergraduate Research Assistant
   * Shanghai Jiao Tong University, School of Public Health
-  * Duties includes: biological experiments (Western-blot, DNA extraction); meta-analysis;
+  * Duties includes: wet experiment such as DNA extraction from over 1k clinical blood samples of pregnant women & dry experiment (meta-analysis). 
   * Supervisor: Hui Wang
 
 Skills
