@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab].
+I am currently pursuing a Master's degree in psychiatry at at [Shanghai Jiao Tong University][sjtu] & [Shanghai Mental Health Center][smhc], while also interning at [Shanghai Artificial Intelligence Laboratory][shailab].
 
 My passion lies in exploring every facet of the human mind through computational modeling, [active inference][fep], artificial intelligence, and philosophy. I'm particularly intrigued by the following questions:
 
