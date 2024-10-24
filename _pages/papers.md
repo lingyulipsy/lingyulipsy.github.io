@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: "Papers"
-permalink: /papers/
+permalink: http://yabyum.github.io/papers/
 author_profile: true
 ---
 
