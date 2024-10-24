@@ -1,0 +1,13 @@
+---
+title: 'Reflection-Bench: probing AI intelligence with reflection'
+collection: papers
+permalink: /papers/paper-8
+excerpt: 'The ability to adapt beliefs or behaviors in response to unexpected outcomes, reflection, is fundamental to intelligent systems interaction with the world. From a cognitive science perspective, this serves as a core principle of intelligence applicable to both human and AI systems. To address the debate on the intelligence of large language models (LLMs), we propose Reflection-Bench, a comprehensive benchmark comprising 7 tasks spanning core cognitive functions crucial for reflection, including perception, memory, belief updating, decision-making, prediction, counterfactual thinking, and meta-reflection. We evaluate the performances of 13 prominent LLMs such as OpenAI o1, GPT-4, Claude 3.5 Sonnet, etc. The results indicate that current LLMs still lack satisfactory reflection ability. We discuss the underlying causes of these results and suggest potential avenues for future research. In conclusion, Reflection-Bench offers both evaluation tools and inspiration for developing AI capable of reliably interacting with the environment. Our data and code are available at https://github.com/YabYum/ReflectionBench.'
+date: 2024-07-21
+#venue: 'Journal 1'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://arxiv.org/abs/2410.16270'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+The ability to adapt beliefs or behaviors in response to unexpected outcomes, reflection, is fundamental to intelligent systems interaction with the world. From a cognitive science perspective, this serves as a core principle of intelligence applicable to both human and AI systems. To address the debate on the intelligence of large language models (LLMs), we propose Reflection-Bench, a comprehensive benchmark comprising 7 tasks spanning core cognitive functions crucial for reflection, including perception, memory, belief updating, decision-making, prediction, counterfactual thinking, and meta-reflection. We evaluate the performances of 13 prominent LLMs such as OpenAI o1, GPT-4, Claude 3.5 Sonnet, etc. The results indicate that current LLMs still lack satisfactory reflection ability. We discuss the underlying causes of these results and suggest potential avenues for future research. In conclusion, Reflection-Bench offers both evaluation tools and inspiration for developing AI capable of reliably interacting with the environment. Our data and code are available at https://github.com/YabYum/ReflectionBench.
