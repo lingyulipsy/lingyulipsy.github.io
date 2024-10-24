@@ -24,7 +24,7 @@ At Shanghai AI Lab, I am investigating the theory and techniques related to ethi
 
 
 
-For more information, please see my [CV](http://www.lingyuli.site/cv/) and [papers](http://www.lingyuli.site/papers/).
+For more information, please see my [CV](http://yabyum.github.io/cv/) and [papers](http://yabyum.github.io/papers/).
 
 ## Contact me 
 
